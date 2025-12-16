@@ -1,5 +1,5 @@
 <h1>SQL Techniques</h1>
-<img width="410" alt="SQL Project 1" src="https://github.com/jciwilliams/SQL_Techniques/assets/152811710/0cd14067-3a89-44f3-84d1-e1396f436c7d">
+<img width="410" alt="SQL Project 1" src="https://github.com/user-attachments/assets/88cab4e6-a4b4-4bc5-900e-9f08fd741d94">
 
 ### SQL projects demonstrate comprehensive skills like: 
  - <b>Retrieving Data from a Single Table</b>
@@ -15,8 +15,7 @@ In preparation for success planning, the AVP of Lending is reviewing the lending
 ###
 <p align="center">
 Extracting, Sorting, and Limiting Data: <br/>
-<img width="203" alt="Image" src="https://github.com/user-attachments/assets/6890fef1-daa2-4d67-993e-a9b23dfb4a9f" />
-<br />
+<img width="203" height="113" alt="Image" src="https://github.com/user-attachments/assets/a4ca0401-569c-4f5d-b640-ef1c19a14cc6" /><br />
 <br />
 
 
@@ -28,8 +27,8 @@ The AVP of Lending would like to now see Personal Loans approved between $10K to
 ###
 <p align="center">
 Extracting, Sorting, and Limiting Data: <br/>
-<img width="229" alt="Image" src="https://github.com/user-attachments/assets/8629967a-0a3b-47ae-bef9-822fced5d6ab" />
-<br />
+<img width="229" height="116" alt="Image" src="https://github.com/user-attachments/assets/1d5e2688-535e-44c2-bf0e-fc9f11ed6a39" />
+ <br />
 <br />
 
 
@@ -41,8 +40,8 @@ Finance is conducting research for our upcoming Fed stress test. They are asking
 ###
 <p align="center">
 Extracting, Sorting, Limiting Data, and Calculated Fields: <br/>
-<img width="290" alt="Image" src="https://github.com/user-attachments/assets/77479544-73f5-4b08-849c-de567d3c2af5" />
-<br />
+<img width="290" height="74" alt="Image" src="https://github.com/user-attachments/assets/a8b27ebc-1571-4c45-a6af-840dfe49ec49" />
+ <br />
 <br />
 
 <h2>SQL Project 4</h2>
@@ -53,8 +52,8 @@ Samira, a regional branch manager, is evaluating interest impact on long-term mo
 ###
 <p align="center">
 Extracting, Sorting, Limiting Data, and Calculated Fields: <br/>
-<img width="341" alt="Image" src="https://github.com/user-attachments/assets/315e1489-1329-4377-ab27-8bd350cdea03" />
-<br />
+<img width="574" height="205" alt="Image" src="https://github.com/user-attachments/assets/e6da3625-3e23-4133-a8c6-b45dc4ab9ab4" />
+ <br />
 <br />
 
 <h2>SQL Project 5</h2>
@@ -65,8 +64,8 @@ Maya in Customer Success is examining transaction risk around withdrawals. Sheâ€
 ###
 <p align="center">
 Extracting, Sorting, Limiting Data, and Calculated Fields: <br/>
-<img width="461" alt="Image" src="https://github.com/user-attachments/assets/19eb3650-e1f4-48b2-8a4d-03161ae1981e" />
-<br />
+<img width="585" height="201" alt="Image" src="https://github.com/user-attachments/assets/c72aa69d-b3f2-4f07-bc6e-193003222589" />
+ <br />
 <br />
 
 
