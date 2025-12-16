@@ -40,7 +40,7 @@ Finance is conducting research for our upcoming Fed stress test. They are asking
 ###
 <p align="center">
 Extracting, Sorting, Limiting Data, and Calculated Fields: <br/>
-<img width="290" height="74" alt="Image" src="https://github.com/user-attachments/assets/a8b27ebc-1571-4c45-a6af-840dfe49ec49" />
+ <img width="495" height="136" alt="Image" src="https://github.com/user-attachments/assets/cf364ba7-49ae-4c13-8fe6-9062352da5d6" />
  <br />
 <br />
 
